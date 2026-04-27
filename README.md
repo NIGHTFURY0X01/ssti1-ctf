@@ -13,7 +13,7 @@ SSTI exploitation techniques to execute commands and read files.
 reveal the final CTF_flag{...} string.
 
 --- 
->> How to run (organizer)
+> How to run (organizer)
 ---
 ## 1) Build (if you received source + Dockerfile):
 ```
